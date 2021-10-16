@@ -1,5 +1,3 @@
-// To test your shot
-// ./node_modules/.bin/mocha -g 'same'
 function seed() {
 	return Array.prototype.slice.call(arguments);
 }
